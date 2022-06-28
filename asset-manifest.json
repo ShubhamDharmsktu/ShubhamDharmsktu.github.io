@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b943225a.css",
+    "main.js": "/static/js/main.7772d815.js",
+    "static/js/787.e326cbe7.chunk.js": "/static/js/787.e326cbe7.chunk.js",
+    "static/media/MunsiyariRajma.png": "/static/media/MunsiyariRajma.6fae289de43f359aa56c.png",
+    "static/media/mainpic1.png": "/static/media/mainpic1.f2674f2878eb3028adfe.png",
+    "static/media/TejPatta.png": "/static/media/TejPatta.c2085ad8a04b27a7880d.png",
+    "static/media/Chamomile.png": "/static/media/Chamomile.6b6ee164f66e3dec7b03.png",
+    "static/media/Timur.png": "/static/media/Timur.9e83c6d8b2ccb0c02ca2.png",
+    "static/media/RockSal.png": "/static/media/RockSal.1283f287b89bba7d9360.png",
+    "static/media/KalaJeera.png": "/static/media/KalaJeera.4699e514b5b79a9602c3.png",
+    "static/media/LobiaDal.png": "/static/media/LobiaDal.2e4a40b56020874a361c.png",
+    "static/media/HempSeeds.png": "/static/media/HempSeeds.74c65336d01451364862.png",
+    "static/media/MasoorDal.png": "/static/media/MasoorDal.9938c75423597b94e7ea.png",
+    "static/media/HempProteinPowder.png": "/static/media/HempProteinPowder.984aae8e395cc4acecbf.png",
+    "static/media/Mint.png": "/static/media/Mint.1f2fa1f6a065c62262f2.png",
+    "static/media/Rice.png": "/static/media/Rice.a02c95d56cd32402b641.png",
+    "static/media/Thyme.png": "/static/media/Thyme.46d8efe564cd8a1d66c1.png",
+    "static/media/HerbalTea.png": "/static/media/HerbalTea.f01eb12cbdaec2c2ab21.png",
+    "static/media/CurryLeaves.png": "/static/media/CurryLeaves.4ab42d0659f23fb90e61.png",
+    "static/media/KuttuAtta.png": "/static/media/KuttuAtta.39e0f845fd792f6463ca.png",
+    "static/media/WildTulsi.png": "/static/media/WildTulsi.2639da03b7114db9a018.png",
+    "static/media/Lavender.png": "/static/media/Lavender.b820ff0526a9b5382748.png",
+    "static/media/HempOil.png": "/static/media/HempOil.b91a17255b39ad67be83.png",
+    "static/media/Stevia.png": "/static/media/Stevia.7015b17a09ce200da729.png",
+    "static/media/Rosemary.png": "/static/media/Rosemary.34b9f579a181221ec3e7.png",
+    "static/media/Honey.png": "/static/media/Honey.c80c6c363deca0123494.png",
+    "static/media/logo.png": "/static/media/logo.54e3864b817df05b25ee.png",
+    "index.html": "/index.html",
+    "main.b943225a.css.map": "/static/css/main.b943225a.css.map",
+    "main.7772d815.js.map": "/static/js/main.7772d815.js.map",
+    "787.e326cbe7.chunk.js.map": "/static/js/787.e326cbe7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b943225a.css",
+    "static/js/main.7772d815.js"
+  ]
+}
